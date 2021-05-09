@@ -9,7 +9,6 @@
     "postinstall": "node ./scripts/post-install.js"
   },
   "author": "Brad Traversy",
-  "license": "MIT",
   "dependencies": {
     "connect-mongo": "^3.2.0",
     "dotenv": "^8.2.0",
